@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Turn
+  - Enemy
+  - Water
+  - Slime
+  - End of Realm
+  - DeathZone
+  - Green Portal
+  - Purple Portal
+  - The END
+  - coin
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Obstacle
+  - Ground
+  - Enemy
+  - projectiles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Horizon
+    uniqueID: 1267020347
+    locked: 0
+  - name: Background
+    uniqueID: 1611635347
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Enviroment
+    uniqueID: 3557085867
+    locked: 0
+  - name: Player
+    uniqueID: 1429552387
+    locked: 0
+  - name: Water
+    uniqueID: 654448923
+    locked: 0
